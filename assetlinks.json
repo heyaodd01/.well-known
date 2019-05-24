@@ -7,4 +7,11 @@
     ["5F:7B:4F:C4:98:E4:94:3E:D5:C6:89:00:B1:E5:62:32:A0:44:CE:08:7F:D5:79:33:A6:A8:1E:0E:B4:0D:60:19",
     "E7:07:12:D5:A9:8E:8A:98:1D:4D:11:4F:D8:BF:B0:05:47:5A:28:D9:DF:05:58:38:F6:66:61:AC:16:DD:B3:BE"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app",
+              "package_name": "com.hk01.eatojoy",
+               "sha256_cert_fingerprints": 
+              ["E7:07:12:D5:A9:8E:8A:98:1D:4D:11:4F:D8:BF:B0:05:47:5A:28:D9:DF:05:58:38:F6:66:61:AC:16:DD:B3:BE"] }
 }]
