@@ -13,5 +13,6 @@
   "target" : { "namespace": "android_app",
               "package_name": "com.hk01.eatojoy",
                "sha256_cert_fingerprints": 
-              ["E7:07:12:D5:A9:8E:8A:98:1D:4D:11:4F:D8:BF:B0:05:47:5A:28:D9:DF:05:58:38:F6:66:61:AC:16:DD:B3:BE"] }
+              ["E7:07:12:D5:A9:8E:8A:98:1D:4D:11:4F:D8:BF:B0:05:47:5A:28:D9:DF:05:58:38:F6:66:61:AC:16:DD:B3:BE"]
+  }
 }]
